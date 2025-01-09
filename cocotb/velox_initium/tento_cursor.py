@@ -11,7 +11,7 @@ from cocotb.runner import get_runner
 
 def tento_cogitatio_cursor():
     """
-    Currite cum python3.
+    Currite cum pytest cum 'tento'
     """
     sim = os.getenv("SIM", "icarus")
     prop = Path(__file__).resolve().parent
@@ -27,13 +27,6 @@ def tento_cogitatio_cursor():
         hdl_toplevel="cogitatio",
         test_module="tento_cogitatio"
     )
-
-
-def test_cogitatio_cursor():
-    """
-    Currite cum pytest.
-    """
-    tento_cogitatio_cursor()
 
 
 if __name__ == "__main__":
