@@ -14,6 +14,8 @@ Maaref, M.; Architecting and Building Hign-Speed SoCs: Design, Develop, and Debu
 
 Mijalkovic, S.; A Practical Guide to Verilog-A. _2022_
 
+Salemi, R.; Python for RTL Verification: A Complete Course in Python, cocotb, and pyuvm. _2022_
+
 Bruno, F.; FPGA Programming for Beginners: Bring your Ideas to Life by Creating Hardware Designs and Electronic Circuits with SystemVerilog. _2021_
 
 Dunne, R.; Computer Architecture Tutorial using an FPGA: ARM & Verilog Introductions. _2020_
